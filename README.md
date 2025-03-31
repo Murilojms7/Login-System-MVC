@@ -75,7 +75,6 @@ Você pode executar a API de duas maneiras:
 **Usando `go run`:**
 
 ```bash
-cd cmd
 go run main.go
 ```
 
