@@ -1,0 +1,28 @@
+# Binários e compilação
+/bin/
+*.exe
+*.out
+*.o
+*.so
+*.a
+
+# Módulos do Go
+/vendor/
+*.mod
+*.sum
+
+# Arquivos do GoLand/JetBrains
+.idea/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e caches
+*.log
+*.cache
+*.temp
+
+# Configurações e credenciais (⚠️ NUNCA COMMITAR SENHAS!)
+.env
+config.yaml
