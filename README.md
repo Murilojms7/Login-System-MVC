@@ -14,6 +14,7 @@ Este projeto é uma API RESTful desenvolvida em Go (Golang) utilizando o framewo
     * `github.com/golang-jwt/jwt/v5`: Biblioteca para geração e verificação de JWT.
     * `golang.org/x/crypto/bcrypt`: Para criptografia de senhas.
     * `github.com/joho/godotenv`: Para carregar variáveis de ambiente.
+    * `github.com/google/uuid`: Gerar ID's unicos.
 
 ## Estrutura do Projeto (MVC)
 
